@@ -1,2 +1,1 @@
 WorkSpace.Gameobject.Humonoid. destroy()
-WorkSpace.GameObject.Humanoid. JumpForce = 100
