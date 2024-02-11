@@ -1,0 +1,1 @@
+WorkSpace.Gameobject.Humonoid. destroy()
